@@ -1,3 +1,5 @@
+# Hangman
+
 The classes.py file contains the backend of the project, all the python code for classes that are used at the frontend.
 The RUN.py contains all the necessary functions to provide the user a smooth interface to interact with the program.
 The admin.txt contains admin credentials.
