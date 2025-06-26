@@ -92,4 +92,12 @@ python RUN.py
 
 
 
+---
 
+## 🤝 Contributors
+- [**Muhammad Zunain**](https://github.com/Muhammad-Zunain)  
+- **Zuhaib Noor**
+
+---
+
+Enjoy using this project! Contributions and feedback are welcome. 😊
